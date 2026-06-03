@@ -2,12 +2,6 @@
 A modern and responsive CGPA Calculator built using HTML, CSS, and JavaScript. This application allows students to calculate their CGPA across 8 semesters, convert CGPA into percentage, predict grades, save records automatically, switch between light/dark themes, and export results .
 
 
-# 🎓 Advanced CGPA Calculator
-
-A modern and responsive CGPA Calculator built using HTML, CSS, and JavaScript. This application helps students calculate their CGPA semester-wise, convert it into percentage, predict grades, save data automatically, switch themes, and download results as PDF.
-
----
-
 ## 🚀 Features
 
 ✅ 8 Semester SGPA Input
@@ -23,8 +17,6 @@ A modern and responsive CGPA Calculator built using HTML, CSS, and JavaScript. T
 ✅ Dark / Light Theme
 
 ✅ Local Storage Support
-
-✅ PDF Report Download
 
 ✅ Responsive Design
 
@@ -77,8 +69,7 @@ Percentage = CGPA × 9.5
    - CGPA
    - Percentage
    - Grade
-4. Download the report as PDF if needed.
-5. Use Dark Mode for a better experience.
+4. Use Dark Mode for a better experience.
 
 ---
 
@@ -117,7 +108,7 @@ CGPA-Calculator/
 
 BCA Student | Web Developer | Tech Enthusiast
 
-- GitHub: Add Your GitHub Link
+- GitHub: https://github.com/Raghav335
 - LinkedIn: Add Your LinkedIn Profile
 
 ---
