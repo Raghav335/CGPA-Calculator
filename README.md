@@ -109,7 +109,7 @@ CGPA-Calculator/
 BCA Student | Web Developer | Tech Enthusiast
 
 - GitHub: https://github.com/Raghav335
-- LinkedIn: Add Your LinkedIn Profile
+- LinkedIn: https://www.linkedin.com/in/raghav-gupta-8a9152328?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
